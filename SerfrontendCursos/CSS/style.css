@@ -1,0 +1,113 @@
+body {
+    font-family:  "Roboto Condensed", sans-serif;
+    margin: 0;
+    background-color: #121212;
+}
+
+.hero {
+    background-image: url(../imagem/bg-6.jpg);
+    height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right center;
+    padding: 1px;
+}
+
+.conteudo-topo {
+    margin: 50px auto 0;
+    width: 80%;
+    text-align: left;
+}
+
+.conteudo-topo h1 {
+    color: #030303;
+    font-size: 60px;
+    text-transform: uppercase;
+    width: 450px;
+    border-bottom: 2px solid #F2B6A0;
+    text-shadow: 2px 2px 2px #ffffff;
+}
+
+.conteudo-topo p {
+    background-color: #F2B6A0;
+    font-size: 18px;
+    display: inline-block;
+    padding: 10px;
+    color: #0c0c0c;
+    border-bottom: 3px solid #261E17;
+}
+
+.bottom-hero {
+    text-align: right;
+    margin: 20px 10px 0 0;
+}
+.bottom-hero li {
+    list-style-type: none;
+    display: inline-block;
+    border: 1px solid #F2B6A0;
+    margin-left: 16px;
+}
+
+.bottom-hero a {
+    background-color: #591812;
+    padding: 10px;
+    display: block;
+    color: #F2B6A0;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.bottom-hero a:hover {
+    background-color: #261E17;
+}
+
+.informacoes {
+    background-color: #8C503A;
+    width: 95%;
+    margin: 40px auto;
+    height: 180px;
+    padding-top: 10px;
+}
+
+.titulo {
+    background-color: #261E17;
+    width: 97%;
+    padding: 5px;
+    margin: auto;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.paragrafo {
+    width: 97%;
+    margin: 10px auto 20px;
+    padding-left: 5px;
+    color: #ffffff;
+}
+
+.paragrafo li {
+    list-style-type: none;
+}
+
+.paragrafo a {
+    background-color: #F2B6A0;
+    display: inline-block;
+    padding: 7px;
+    text-decoration: none;
+    color: #030303;
+}
+.paragrafo a:hover {
+    background-color: #591812;
+}
+
+footer {
+    background-color: #261E17;
+    margin-bottom: 0;
+    height: 40px;
+}
+
+footer p {
+    color: #bbbbbb;
+    text-align: center;
+    padding-top: 10px;
+}
