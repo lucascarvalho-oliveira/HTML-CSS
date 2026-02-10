@@ -1,0 +1,133 @@
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #BF9004;
+}
+
+.logo {
+    width: 100px;
+    margin-top: -65px;
+}
+
+.titulo h2 {
+    width: 550px;
+    margin: 35px 0 0 110px;
+    color: #401F03;
+    text-align: center;
+    border-bottom: 3px solid #ffffff;
+}
+
+.btn-1 {
+    position: absolute;
+    left: 45%;
+    top: 10px;
+    
+}
+
+.material-symbols-outlined {
+    vertical-align: middle;
+    margin-left: 4px; 
+}
+
+.person a {
+    height: 20px;
+}
+
+.btn-2 {
+   position: absolute;
+   top: 10px;
+   right: 10px;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 5px;
+    height: 25px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+    background-color: #401F03;
+    display: inline-block;
+    padding: 10px;
+    color: #ffffff;
+    border: 3px solid #ffffff;
+}
+
+a:hover {
+    background-color: #A66D03;
+}
+
+.img-m {
+    background-repeat: no-repeat;
+    height: 500px;
+    margin: 50px 10px 0 45px;
+    border: 10px solid #ffffff;
+}
+
+main h1 {
+    width: fit-content;
+    text-align: center;
+    margin-left: 44%;
+    color: #401F03;
+    border-bottom: 3px solid #ffffff;
+    text-transform: uppercase;
+}
+
+.nome {
+    display: flex;
+}
+
+.nome h3 {
+    color: #401F03;
+    border-bottom: 3px solid #ffffff;
+}
+
+.img-1 {
+    margin-left: 150px;
+}
+
+.img-2 {
+    margin-left: 260px;
+}
+
+.img-3 {
+    margin-left: 275px;
+}
+
+.img-4 {
+    margin-left: 285px;
+}
+
+.btn-3 {
+    width: fit-content;
+    margin-left: 25%;
+}
+
+.btn-3 li {
+    margin: 40px 60px 0 0;
+}
+
+.btn-3 a {
+    padding: 20px;
+    border: 3px solid #ffffff;
+}
+
+footer {
+    background-color: #8C6249;
+    margin-top: 100px;
+    padding-bottom: 1px;
+    padding-top: 45px;
+}
+
+footer p {
+    margin-left: 10px;
+    padding-bottom: 10px;
+}
+
+.copyright {
+    padding-bottom: 15px;
+}
