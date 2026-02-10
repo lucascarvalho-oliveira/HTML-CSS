@@ -13,8 +13,6 @@ Este repositório reúne meus **projetos de estudo em HTML e CSS**, organizados 
 
 > Projetos realmente maduros e prontos para apresentação profissional poderão futuramente ganhar **repositórios próprios**.
 
----
-
 ## 📂 Estrutura do repositório
 
 ```
