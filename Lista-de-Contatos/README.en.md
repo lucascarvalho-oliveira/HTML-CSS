@@ -11,12 +11,12 @@ This repository contains the Contact **List project**, developed with `HTML` and
 
 The project consists of the following files:
 
-| Arquivo / Pasta | Descrição |
+| File / Folder | Description |
 |-----------------|-----------|
-| index.html      | Estrutura principal da página (HTML) |
-| stayle.css      | Folha de estilo (CSS) |
-| Img/            | Pasta que contém as imagens usadas no site (fotos de contatos e ícones de ação) |
-| README.md       | Documento de descrição do projeto |
+| index.html      | Main page structure (HTML) |
+| stayle.css      | Stylesheet (CSS) |
+| Img/            | Folder containing images used on the site (contact photos and action icons) |
+| README.md       | Project documentation |
 
 ## Technologies Used
 
