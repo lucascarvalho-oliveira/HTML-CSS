@@ -7,7 +7,7 @@
 # Project Documentation: serfrontend-cursos
 ## Overview
 
-This repository contains a project developed with HTML and CSS, with the goal of applying fundamental concepts of these technologies. The project is composed of the following files:
+This repository contains a project developed with `HTML` and `CSS`, with the goal of applying fundamental concepts of these technologies. The project is composed of the following files:
 
 | Arquivo / Pasta | Descrição |
 |-----------------|------------|
