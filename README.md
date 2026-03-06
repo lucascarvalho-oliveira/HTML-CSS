@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge">
+  </a>
+</p>
+
 # HTML-CSS
 
 Este repositório reúne meus **projetos de estudo em HTML e CSS**, organizados de forma progressiva. O objetivo não é apenas "guardar códigos", mas **registrar minha evolução prática em front-end**, desde estruturas básicas até layouts mais completos e responsivos.
@@ -13,7 +19,7 @@ Este repositório reúne meus **projetos de estudo em HTML e CSS**, organizados 
 
 > Projetos realmente maduros e prontos para apresentação profissional poderão futuramente ganhar **repositórios próprios**.
 
-## 📂 Estrutura do repositório
+## Estrutura do repositório
 
 ```
 HTML-CSS/
@@ -61,9 +67,3 @@ Projetos desenvolvidos durante cursos e estudos guiados, com foco em:
 * CSS3
 * Google Fonts
 * Organização semântica de código
-
-## Observação importante
-
-Este repositório representa **aprendizado e progresso**, não projetos comerciais finalizados.
-
-Ele existe para mostrar **processo**, não apenas resultado final.
