@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Language-Português-green?style=for-the-badge">
+  </a>
+</p>
+
 # HTML-CSS
 
 This repository gathers my **HTML and CSS study projects**, organized progressively. The goal is not just to "store code", but to **document my practical evolution in front-end development**, from basic structures to more complete and responsive layouts.
