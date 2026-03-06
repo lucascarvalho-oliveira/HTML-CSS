@@ -17,11 +17,14 @@ This repository gathers my **HTML and CSS study projects**, organized progressiv
 > Projects that become more mature and ready for professional presentation may later receive their own dedicated repositories.
 
  ## Repository Structure
+ 
+```
 HTML-CSS/
 ├── LandingPage-hamburgueria/
 ├── Lista-de-Contatos/
 ├── SerrfrontendCursos/
 └── README.md
+```
 
 ## 📁 LandingPage-hamburgueria
 
