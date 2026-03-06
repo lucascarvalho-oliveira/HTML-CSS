@@ -11,12 +11,12 @@ This repository contains the Burger Snack Bar project, developed with `HTML` and
 
 The project consists of the following files:
 
-| Arquivo / Pasta | Descrição |
+| File / Folder | Description |
 |-----------------|-----------|
-| index.html      | Estrutura principal da página (HTML) |
-| CSS/style.css   | Folha de estilo (CSS) |
-| IMG/            | Pasta que contém as imagens usadas no site (logo e hambúrgueres) |
-| README.md       | Documento de descrição do projeto |
+| index.html      | Main page structure (HTML) |
+| CSS/style.css   | Stylesheet (CSS) |
+| IMG/            | Folder containing images used on the site (logo and burge |
+| README.md       | Project documentation |
 
 ## Technologies Used
 
