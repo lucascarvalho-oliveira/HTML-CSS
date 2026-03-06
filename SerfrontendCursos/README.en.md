@@ -9,7 +9,7 @@
 
 This repository contains a project developed with `HTML` and `CSS`, with the goal of applying fundamental concepts of these technologies. The project is composed of the following files:
 
-| Arquivo / Pasta | Descrição |
+| File / Folder | Description |
 |-----------------|------------|
 | `index.html` | Main page structure (HTML) |
 | `style.css` | Stylesheet (CSS) |
