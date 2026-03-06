@@ -7,7 +7,7 @@
 # Project Documentation: Contact List
 ## Overview
 
-This repository contains the Contact List project, developed with `HTML` and `CSS`, with the goal of creating a visual interface to display contacts in an organized way. The project presents images, names, emails, and action buttons (edit and delete) for each contact.
+This repository contains the Contact **List project**, developed with `HTML` and `CSS`, with the goal of creating a visual interface to display contacts in an organized way. The project presents images, names, emails, and action buttons (edit and delete) for each contact.
 
 The project consists of the following files:
 
@@ -60,4 +60,4 @@ The project consists of the following files:
 
 ## Conclusion
 
-The Contact List project serves as solid practice in HTML and CSS, demonstrating how to structure and style interactive lists. It provides a foundation for future improvements in functionality and responsiveness, while applying good interface design practices.
+The Contact List project serves as solid practice in `HTML` and `CSS`, demonstrating how to structure and style interactive lists. It provides a foundation for future improvements in functionality and responsiveness, while applying good interface design practices.
